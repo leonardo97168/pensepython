@@ -2,7 +2,9 @@
 """
         # exercício 1.1
 
- 1. quando omito um dos  parênteses aparece erro de sintaxe e diz que nunca foi fechado e 
+1.Em uma instrução print, o que acontece se você omitir um dos parênteses ou ambos?
+
+quando omito um dos  parênteses aparece erro de sintaxe e diz que nunca foi fechado e 
 quando omito os dois parênteses tambem aparece erro de sintaxe e diz que tem parênteses ausentes na chamada para 'print'
 
 2.Se estiver tentando imprimir uma string, o que acontece se omitir uma das aspas ou ambas?
